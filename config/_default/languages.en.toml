@@ -1,0 +1,19 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Kai McBride"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+bluesky = "https://bsky.app/profile/kaimcbride.com"
+
+["params.author"]
+name = "Kai McBride"
+image = "kmc_hero.jpg"
+headline = "from Kauai to Santa Fe in 53 years"
