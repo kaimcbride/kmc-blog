@@ -22,7 +22,7 @@ which causes them to fade to yellow and then bleach to white. A lot of images
 where everyone's head is replaced by a 
 glowing bleached-out ball
 
-<li><b>Eighth Grade,</b><i> Highlands NC,</i> meet up with my Bridgette again,
+<li><b>Eighth Grade,</b><i> Highlands NC,</i> meet up with my sister Bridgette again,
 see the photo work she'd been doing over the last couple years&mdash; i'm
 impressed. Remember an image she had of bubbles floating in the air. I start a
 series of photos where i put the camera on the ground in tall grass and weeds,
@@ -61,7 +61,7 @@ manager and we have a great year together. During the slow hours, particularly
 Saturday mornings, I teach myself about all of the equipment and read all of
 the technical books I can get my hands on. I learn more about photography
 during this year than I had the previous two. Start using an old wooden 8x10
-Ansco camera that noone else ever used. Couldn't afford 8x10 film, so I use
+Ansco camera that no one else ever used. Couldn't afford 8x10 film, so I use
 photopaper as a negative instead, later printing through it to make a positive
 image. Jim Dow, photo faculty,  lends me one of his 8x10 Deardorff cameras for
 the summer so that I can copy the design to build my own. I fall in love with
@@ -107,10 +107,9 @@ use. Barely had we walked in the door before Rob recognised someone at one of
 the booths and they had a beautiful 
 1936 5x7 Deardorff with a 5x7 and 4x5 back. Since they knew
 Rob, and had met me once before, they sold it to me for $500.00. I found a lens
-from another associate for $250 and I was on cloud nine. This has been my main
-camera ever since. I've dragged it all over New England, North Carolina, and
-even once to the top of the Sigesaulle in Berlin. I love this camera and hope
-it lasts another 66 years.
+from another associate for $250 and I was on cloud nine. This became my main
+camera for years. I dragged it all over New England, North Carolina, and
+even once to the top of the Sigesaulle in Berlin. 
 
 <li><b>1997&mdash;2000,</b><i> Hibernation,</i> After leaving NAPC I went to
 work for TechSquare, a computer consulting company. Deprived of my dear Iris
@@ -128,14 +127,14 @@ lo-res digital camera. The project is a huge personal success, generating 2411
 images that document a very important year of my life.
 
 <li><b>Summer 2001,</b><i> Lenoir NC,</i> living in Lenoir with Rachel for the
-summer. I once again have access to her mother's darkroom, and the time (if not
+summer. I once again have access to their darkroom, and the time (if not
 money) to start working with my Deardorff again. It's instant love from the first negatives that are
 processed. I also fall in love with downtown Lenoir and spend many a hot day
 walking all over setting up my camera. I become a regular and recognisable site
 on the old main street. When we leave at the beginning of September I have a
-nice portfolio of work, drymounted and ready for presentation, to take with me.
+nice portfolio of work, dry mounted and ready for presentation, to take with me.
 
-<li><b>October 2001,</b><i> New York City,</i> the economy is gone in NY. Can't
+<li><b>October 2001,</b><i> New York City,</i> in the aftermath of 9/11 the economy is gone in NY. Can't
 afford to stay. I return to Boston and TechSquare. I find out that my
 photograph Burns Oil from Lenoir has won 2nd place for B&W photo from 
 Caldwell County Arts Council's
@@ -147,18 +146,16 @@ Street. Purchased, trays, beakers and chemicals, and converted my bathroom into
 a place where I can at least process film. In the meantime I've been shooting
 Poloroid Type 55 film which produces a 4x5 print and negative at the same time.
 I scan these negatives to have a look a the image before trying to make a
-print. Plan on processing here at the house and printing at the Boston Photo
-Collaborative. 
+print. 
 
 <li><b>April 2002,</b><i> Boston MA,</i> Purchase Pentax Digital Spotmeter at
-E.P. Levine (where I bought
-my Gossen Luna Star 10 yrs previous). I love this meter and use no other now.
+E.P. Levine (where I bought my Gossen Luna Star 10 yrs previous). I love this meter.
 Purchase new sturdier Bogen Tripod from SBI Sales in Harvard Square.
 
 <li><b>May 2002,</b><i> Carmel CA,</i> Attend a
 workshop given by Kim, Gina, and Cole
 Weston. Primarily as a pilgrimage to where Edward Weston lived. Saw his house,
-darkrroom, held some of his negatives, and won a print by raffle that Kim
+darkroom, held some of his negatives, and won a print by raffle that Kim
 printed. Bonus: Kim and Gina are wonderful people and excellent hosts. Leave
 with my photography batteries fully charged.
 
@@ -243,8 +240,7 @@ models I bought. Sigh.
 <li><b>June 2004</b><i> Berlin, Germany,</i> I travelled for two weeks in
 Berlin, bringing along my Deardorff camera, 120mm lens, and 80 sheets of 4x5
 Polaroid Type55 film. My goal was to shoot all 80 sheets, which I did. I
-processed the last sheet at 1:02am on the night before I left. View Berlin
-Project
+processed the last sheet at 1:02am on the night before I left. 
 
 <li><b>June 26th 2004</b><i> Annandale-On-Hudson, NY,</i> Visit Bard College
 during their summer Graduate program. Intrigued by the program. Hear about
@@ -301,7 +297,8 @@ on campus. amazing.</li>
 Arts Degree from Columbia University.</li>
 
 <li><b>May 27th 2008</b><i> Columbia University,</i> Start teaching Photo I
-class at Columbia during the summer session.</li>
+class at Columbia during the summer session. Continue teaching there 
+for the next 11 years.</li>
 </ul>
 
 *to be continued...*
