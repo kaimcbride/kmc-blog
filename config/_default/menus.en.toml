@@ -18,6 +18,10 @@ weight = 9_999
   pageRef = "posts"
   weight = 10
 
+[[main]]
+  name = "albums"
+  pageRef = "albums"
+  weight = 20
 
 [[footer]]
 none = "none"
