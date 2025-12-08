@@ -11,18 +11,16 @@ I wanted to produce a small self-contained body of work specifically for the MFA
 
 The first two photographs show a hole in [Catherine Czacki's](http://catherineczacki.com/) studio that connects the basement to the studio floors above. Catherine and I decided to work together to produce a 60 page booklet that addressed the rumors and facts about what the building had been used for over the years. We gave away the booklet during the show.
 
-{{< gallery >}}
- <img src="img/UnderTheStudio-101.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-102.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-103.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-104.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-105.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-106.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-107.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-108.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-110.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-111.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-112.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-120.jpg" class="grid-w100" />
- <img src="img/UnderTheStudio-121.jpg" class="grid-w100" />
-{{< /gallery >}}
+{{< figure  src="img/UnderTheStudio-101.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-102.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-103.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-104.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-105.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-106.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-107.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-108.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-110.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-111.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-112.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-120.jpg"  >}}
+{{< figure  src="img/UnderTheStudio-121.jpg"  >}}
