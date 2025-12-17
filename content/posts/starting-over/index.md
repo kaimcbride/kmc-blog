@@ -6,8 +6,9 @@ title = 'Starting Over'
 {{< figure src="featured.jpg" >}}
 [ Pine Needles and Ice, 2025-11-24 ]
 ### Meh 
-Once again, starting over with a new website concept. I can't remember how long I've had this domain. Probably since 2006 when I started
-grad school at Columbia University and no longer felt like I could get away with my existing domain: mumbleBunnies.org. After all, I was
+Once again, starting over with a new website concept. I've had this domain since July of 2002, but I can't remember when I first created
+a website that used it. Perhaps in 2006 when I was in 
+grad school at Columbia University and no longer felt like I could get away with my existing domain: *mumbleBunnies.org*. After all, I was
 on my way to becoming a 'Master'. 
 
 The site has always been a glorified portfolio. Groups of photographs arranged by project. Maybe some 'news' that never got updated (not enough news?). 

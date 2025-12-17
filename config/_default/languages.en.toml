@@ -11,9 +11,9 @@ rtl = false
 dateFormat = "2 January 2006"
 
 [[params.author.links]]
-bluesky = "https://bsky.app/profile/kaimcbride.com"
+#bluesky = "https://bsky.app/profile/kaimcbride.com"
 
 ["params.author"]
 name = "Kai McBride"
 image = "kmc_hero.jpg"
-headline = "internet home for my light drawings and written mumblings"
+headline = "photography"
